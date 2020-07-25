@@ -1,0 +1,50 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.main{
+background:url("https://cdn.pixabay.com/photo/2020/06/20/06/34/scenery-5319835_1280.jpg");
+height: 800px;
+width: 100%;
+background-size:cover;
+background-attachment: fixed;
+}
+.container{
+	padding: 300px;
+	text-align: center;
+	color: white;
+	font-size: 40px;
+	font-weight: bold;
+	vertical-align: middle;
+	margin-left: auto;
+	margin-right: auto;
+	position: static;
+}
+.nav{
+	float: right;
+}
+a{
+	text-decoration: none;
+	display: inline-block;
+	font-size: 30px;
+	color:white;
+	padding: 20px;
+}
+a:nth-child(2){
+	color: #c9af1c;
+}
+.home{
+	background: url("https://cdn.pixabay.com/photo/2020/06/29/14/15/light-bulb-5352822_1280.jpg");
+	background: cover;
+}
+.text{
+	padding: 300px;
+	text-align: center;
+	color: white;
+	font-size: 40px;
+	font-weight: bold;
+	vertical-align: middle;
+	margin-left: auto;
+	margin-right: auto;
+	position: static;
+}
