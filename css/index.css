@@ -88,4 +88,26 @@ p{
 	text-align: center;
 	padding: 70px;
 }
+.email{
+	float: left;
+	height: 33.33%;
+	width:33.33%;
+}
+.contact-section{
+	background-color: grey;
+}
+.github{
+	float:left;
+	height: 33.33%;
+	width:33.33%;
+}
+.linkedin{
+	clear: left;
+	height: 33.33%;
+	width:33.33%;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
 
