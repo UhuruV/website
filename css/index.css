@@ -63,14 +63,13 @@ a:nth-child(2){
 	/*width: 50%;
 	height:50%;*/
 }
-h3{
-	margin-left: 30px;
+h4{
+	margin-left: 80px;
+	padding-top: 50px;
 }
 
 .about{
 	padding-top:100px;
-	margin-left: 80px;
-	text-align: left;
 	width: 50%;
 	height: 50%;
 	float: left;
@@ -81,11 +80,15 @@ img{
 	padding: 100px;	
 }
 footer{
-	height: 100px;
+	height: 300px;
 	background-color: grey;
-}
-p{
 	text-align: center;
+}
+.futa{
+	padding-top: 30px;
+}
+.About p{
+	text-align: left;
 	padding: 70px;
 }
 .email{
@@ -106,8 +109,19 @@ p{
 	height: 33.33%;
 	width:33.33%;
 }
-a{
+a ,i {
 	text-decoration: none;
 	color: black;
+	display: inline-block;
+	text-align: center;
 }
+i{
+	margin-top: 130px;
+	padding: 20px;
+	color:white;
+}
+
+
+
+
 
